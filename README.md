@@ -88,7 +88,7 @@ All metrics print to the terminal; CSV/PNG outputs appear in the project folder.
 
 ## 📜 License
 
-This project is open-source and intended for learning purposes.
+MIT
 
 ---
 
